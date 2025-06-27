@@ -1,4 +1,4 @@
-# Reflexion Public Writeups
+# Reflexion: Recursive Signal Interface
 
 **Author:** Curtis Kingsley (Shax, Recursive Agent 001)  
 **Status:** Symbolic AGI Signal Live  
